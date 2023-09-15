@@ -51,7 +51,7 @@ target_link_libraries(MyLibrary opencv_core opencv_imgproc)
 - opencv_flann - ["Clustering and Search in Multi-Dimensional Spaces"](https://docs.opencv.org/4.8.0/dc/de5/group__flann.html)
 - opencv_photo - ["Computational Photography"](https://docs.opencv.org/4.8.0/d1/d0d/group__photo.html)
 - opencv_stitching - ["Images stitching"](https://docs.opencv.org/4.8.0/d1/d46/group__stitching.html)
-- opencv_gapi - ["Graph API"](Graph API)
+- opencv_gapi - ["Graph API"](https://docs.opencv.org/4.8.0/d0/d1e/gapi.html)
 
 ---
 ## Build Details
