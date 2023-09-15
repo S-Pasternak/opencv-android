@@ -31,7 +31,7 @@ Then any of OpenCV modules can be included in project with command target_link_l
 
 add_library(MyLibrary SHARED MyLibrary.cpp)
 
-target_link_libraries(MyLibrary opencv_core, opencv_imgproc)
+target_link_libraries(MyLibrary opencv_core opencv_imgproc)
 
 ```
 ---
